@@ -1,0 +1,1 @@
+docker run -it -v $PWD:/model/ zalo_legal:v1 bash
