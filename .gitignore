@@ -1,0 +1,7 @@
+__pycache__/
+legal_corpus_index/
+model_trained/
+pretrained_model/
+src/ColBERT/data/
+src/GC-DPR/data/
+zalo_data/
